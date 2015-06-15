@@ -1,0 +1,2 @@
+defmodule ExSentry do
+end
